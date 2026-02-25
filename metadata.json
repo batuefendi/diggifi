@@ -1,0 +1,5 @@
+{
+  "name": "Figma Prototype Viewer",
+  "description": "A clean, minimal interface for viewing and interacting with the DIGGIFI Figma prototype.",
+  "requestFramePermissions": []
+}
